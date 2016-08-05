@@ -2,27 +2,34 @@ body {
   background-color: rgba(185, 185, 185, 1);
   background: linear-gradient(rgba(185, 185, 185, 1), rgba(120, 120, 120, 1))
 }
+
 ul {
   list-style-type: none;
 }
+
 h3 {
   text-align: center;
 }
+
 p span {
   color: white;
   font-family: 'Titillium Web', sans-serif;
 }
+
 .navbar-brand {
   color: grey;
 }
+
 .jumbotron {
   -webkit-box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
   box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
 }
+
 .copyright {
   text-align: center;
 }
+
 #profile {
   margin-top: 20px;
   margin-left: 50px;
@@ -31,6 +38,7 @@ p span {
   background-size: cover;
   overflow: hidden;
 }
+
 #profile h1 {
   color: white;
   font-family: 'Titillium Web', sans-serif;
@@ -38,10 +46,12 @@ p span {
   margin-top: 50%;
   bottom: 50%;
 }
+
 #profile p {
   color: white;
   text-align: center;
 }
+
 #about_me {
   font-family: 'Raleway', sans-serif;
   color: rgba(102, 102, 102, 1);
@@ -49,12 +59,15 @@ p span {
   margin-right: 50px;
   text-align: justify
 }
+
 #background {
   text-align: center;
 }
+
 #projects {
   text-align: center;
 }
+
 #projects #built {
   margin-top: 20px;
   font-size: 15px;
@@ -62,21 +75,26 @@ p span {
 #projects img {
   margin-bottom: 30px;
 }
+
 #projects p .description {
   font-size: 1rem;
 }
+
 #projects #description {
   font-size: 15px;
   margin: 10px;
 }
+
 .thumbnail {
   font-family: 'Raleway', sans-serif;
   color: rgba(102, 102, 102, 1);
   height: 600px;
 }
+
 .thumbnail li {
   text-align: left;
 }
+
 @media screen and (max-width: 750px) {
   #navbar {
     display: none !important;
