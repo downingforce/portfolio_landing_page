@@ -14,6 +14,7 @@ _A personal webpage to host a programming portfolio. The webpage list past proje
     _To clone using Git, use the following terminal command:_
     _git clone https://github.com/downingforce/portfolio_landing_page.git
 * _Open in text editor of your choice_
+* _Visit the webpage at https://downingforce.github.io/portfolio_landing_page/
 * _For viewing index.html in browser, Google Chrome recommended_
 
 
