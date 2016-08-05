@@ -32,6 +32,10 @@ h3 {
   text-align: center;
 }
 
+#sections .row {
+  display: inline;
+}
+
 #about_me {
   font-family: 'Raleway', sans-serif;
   color: rgba(102, 102, 102, 1);
