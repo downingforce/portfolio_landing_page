@@ -16,9 +16,6 @@ _A personal webpage to host a programming portfolio. The webpage list past proje
 * _Open in text editor of your choice_
 * _For viewing index.html in browser, Google Chrome recommended_
 
-## Known Bugs
-
-_There are no known bugs at this time_
 
 ## Support and contact details
 
