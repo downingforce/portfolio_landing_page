@@ -1,5 +1,6 @@
 body {
-  background-color: rgba(179, 179, 179, 1);
+  background-color: rgba(185, 185, 185, 1);
+  background: linear-gradient(rgba(185, 185, 185, 1), rgba(120, 120, 120, 1))
 }
 
 ul {
@@ -93,4 +94,10 @@ p span {
 
 .thumbnail li {
   text-align: left;
+}
+
+@media screen and (max-width: 750px) {
+  #navbar {
+    display: none !important;
+  }
 }
