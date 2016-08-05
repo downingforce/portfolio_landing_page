@@ -15,6 +15,10 @@ p span {
   font-family: 'Titillium Web', sans-serif;
 }
 
+.navbar-brand {
+  color: grey;
+}
+
 .jumbotron {
   -webkit-box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
