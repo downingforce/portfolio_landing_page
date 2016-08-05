@@ -2,7 +2,7 @@ body {
   background-color: rgba(179, 179, 179, 1);
 }
 
-.jumbotron {
+#profile {
   margin-top: 100px;
   margin-left: 50px;
   margin-right: 50px;
@@ -11,7 +11,7 @@ body {
   overflow: hidden;
 }
 
-.jumbotron h1 {
+#profile h1 {
   color: white;
   font-family: 'Titillium Web', sans-serif;
   text-align: center;
@@ -19,7 +19,13 @@ body {
   bottom: 50%;
 }
 
-.jumbotron p {
+#profile p {
   color: white;
   text-align: center;
+}
+
+#about_me {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: justify;
 }
