@@ -2,6 +2,14 @@ body {
   background-color: rgba(179, 179, 179, 1);
 }
 
+ul {
+  list-style-type: none;
+}
+
+h3 {
+  text-align: center;
+}
+
 #profile {
   margin-top: 100px;
   margin-left: 50px;
@@ -25,7 +33,14 @@ body {
 }
 
 #about_me {
+  font-family: 'Raleway', sans-serif;
+  color: rgba(102, 102, 102, 1);
   margin-left: 50px;
   margin-right: 50px;
-  text-align: justify;
+  text-align: justify
+}
+
+.thumbnail {
+  font-family: 'Raleway', sans-serif;
+  color: rgba(102, 102, 102, 1);
 }
