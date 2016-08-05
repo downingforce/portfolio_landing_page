@@ -40,6 +40,19 @@ h3 {
   text-align: justify
 }
 
+#projects {
+  text-align: center;
+}
+
+#projects #built {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+#projects img {
+  margin-bottom: 30px;
+}
+
 .thumbnail {
   font-family: 'Raleway', sans-serif;
   color: rgba(102, 102, 102, 1);
