@@ -20,7 +20,7 @@ p span {
 }
 
 #profile {
-  margin-top: 100px;
+  margin-top: 30px;
   margin-left: 50px;
   margin-right: 50px;
   background: #000 url("../img/profile.jpg") center center;
@@ -64,6 +64,15 @@ p span {
 
 #projects img {
   margin-bottom: 30px;
+}
+
+#projects p .description {
+  font-size: 1rem;
+}
+
+#projects #description {
+  font-size: 15px;
+  margin: 10px;
 }
 
 .thumbnail {
