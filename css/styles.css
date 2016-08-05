@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(179, 179, 179, 1);
+}
+
+.jumbotron {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background: #000 url("../img/profile.jpg") center center;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+  margin-top: 50%;
+  bottom: 50%;
+}
+
+.jumbotron p {
+  color: white;
+  text-align: center;
+}
