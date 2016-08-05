@@ -1,4 +1,4 @@
-# _About_Jason Portfolio_
+# _portfolio_landing_page_
 
 #### _HTML, CSS, and Bootstrap Exercise for Epicodus, 08.04.2016_
 
